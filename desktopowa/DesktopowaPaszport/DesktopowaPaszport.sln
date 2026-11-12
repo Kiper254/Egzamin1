@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopowaPaszport", "DesktopowaPaszport\DesktopowaPaszport.csproj", "{C0878995-59EB-43D8-8B9D-134C695EFAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0878995-59EB-43D8-8B9D-134C695EFAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0878995-59EB-43D8-8B9D-134C695EFAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0878995-59EB-43D8-8B9D-134C695EFAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0878995-59EB-43D8-8B9D-134C695EFAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E089FE2D-2E68-4E63-9C5F-AAAABAA31E2B}
+	EndGlobalSection
+EndGlobal
